@@ -1,0 +1,74 @@
+.App {
+  display: flex;
+}
+
+#buttonDiv h2{
+  margin-left: 100px;
+}
+
+#buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 100px;
+}
+
+#buttons2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+#buttons2 div{
+  margin-right: 50px;
+}
+
+
+#buttons3{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+#buttons3 div{
+  margin-right: 50px;
+}
+
+#buttons4{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+#buttons4 div{
+  margin-right: 50px;
+}
+
+#buttons div{
+  margin-right: 50px;
+}
+
+#menu{
+  text-align: center;
+  width: 300px;
+  background: rgb(198, 193, 193);
+}
+
+#menu li{
+  list-style: none;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: rgb(107, 111, 114);
+}
+
+#menu h4{
+  margin-bottom: 50px;
+}
+
+#menu h4 i{
+  color: orange;
+}
+
+
